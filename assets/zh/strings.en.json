@@ -309,7 +309,7 @@
 	"panel.covid19home.switch_account.heading.title": "切換帳戶",
 	"panel.covid19home.switch_account.dropdown.hint": "選擇一個帳號",
 	"panel.covid19home.switch_account.default.suffix": " （默認）",
-	"panel.covid19home.button.groups.title": "Groups",
+	"panel.covid19home.button.groups.title": "组别",
 	"panel.covid19home.button.groups.hint": "",
 	"panel.covid19_test_locations.header.title": "测试位置",
 	"panel.covid19_test_locations.label.contact.title": "联系人",
