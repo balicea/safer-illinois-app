@@ -13,7 +13,7 @@
     "test.another.asap.step": "Faça outro teste o mais rápido possível",
     "test.another.now.step.html": "<h3>Faça seu segundo teste agora.</h3><ul><li>Limite-se a atividades essenciais até obter o segundo resultado negativo.</li><li>Seu acesso ao edifício mudará para Concedido (Amarelo) com o segundo resultado negativo do teste.</li></ul><p>Veja <a href='https://covid19.illinois.edu/spring-2021-return-to-campus-for-students/'> cronograma de testes e regras</a>.</p>",
     "test.after.step.html": "<h3>Faça seu segundo teste após {next_step_date}. Você deve fazer dois testes no campus até 25 de janeiro.</h3><ul><li>Intercale os testes com três dias de quarentena:&nbsp;se o primeiro teste for feito no primeiro dia, o segundo teste será feito no quinto dia</li><li>Limite-se a atividades essenciais até obter o segundo resultado negativo.</li><li>O seu acesso ao edifício mudará para Concedido (Amarelo) com o segundo resultado negativo do teste.</li></ul><p>Veja <a href='https://covid19.illinois.edu/spring-2021-return-to-campus-for-students/'> cronograma de testes e regras</a>.</p>",
-    "test.after.reason": "Se status foi alterado para Laranja porque é preciso fazer outro teste.",
+    "test.after.reason": "Seu status foi alterado para Laranja porque é preciso fazer outro teste.",
     "test.required.reason": "Seu status foi alterado para Laranja porque é preciso fazer um teste.",
     "test.resume.step": "Volte a fazer o teste nos dias que lhe foram designados",
     "test.future.warning": "Seu status mudará para laranja/acesso negado se não tiver um teste negativo até o {next_step_date}.",
