@@ -62,7 +62,7 @@
 	"panel.onboarding.bluetooth.label.title": "Ativar Bluetooth",
 	"panel.onboarding.bluetooth.label.title.hint": "Cabeçalho 1",
 	"panel.onboarding.bluetooth.label.description": "Utilize Bluetooth para receber notificações de possível exposição à COVID-19.",
-	"panel.onboarding.bluetooth.button.allow.title": "Ativar o Bluetooth",
+	"panel.onboarding.bluetooth.button.allow.title": "Ativar Bluetooth",
 	"panel.onboarding.bluetooth.button.allow.hint": "",
 	"panel.onboarding.bluetooth.button.dont_allow.title": "Não agora",
 	"panel.onboarding.bluetooth.button.dont_allow.hint": "Ignorar ativação do Bluetooth",
