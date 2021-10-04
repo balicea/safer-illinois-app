@@ -237,7 +237,7 @@
 	"panel.profile_info.label.remove_my_info.title": "移除我的信息",
 	"panel.profile_info.button.remove_my_information.title": "删除我的信息",
 	"panel.profile_info.button.remove_my_information.hint": "",
-	"panel.profile_info.dialog.remove_my_information.title": "电子邮件地址",
+	"panel.profile_info.dialog.remove_my_information.title": "选择\"是\"后，您的所有个人信息和偏好将从我们的系统中被删除。此操作无法被复原。信息删除后，您会回到应用程式的安装页，以便您可以重新启动或删除应用程式。",
 	"panel.profile_info.dialog.remove_my_information.subtitle": "确定吗?",
 	"panel.profile_info.dialog.remove_my_information.yes.title": "电子邮件地址",
 	"panel.profile_info.dialog.remove_my_information.no.title": "不",
