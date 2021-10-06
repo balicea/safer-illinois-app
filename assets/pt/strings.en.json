@@ -656,7 +656,7 @@
 	"panel.health.status_update.label.reason.vaccine.effective.title": "Sua vacinação contra a COVID-19 foi verificada.",
 	"panel.health.status_update.label.reason.vaccine.taken.title": "Sua vacina foi tomada.",
 	"panel.health.status_update.label.reason.vaccine.title": "Sua vacina foi aplicada.",
-	"panel.health.status_update.label.reason.action.title": "Health authorities require you to take an action.",
+	"panel.health.status_update.label.reason.action.title": "As autoridades sanitárias exigem que medidas sejam tomadas.",
 	"panel.health.status_update.label.reason.action.detail": "Ação Necessária: ",
 	"panel.health.status_update.button.info.title": "Informação ",
 	"panel.health.next_steps.button.continue.title.find_locatio": "Procurar local",
