@@ -1,6 +1,6 @@
 {
 	"app.title": "Safer Illinois",
-	"app.offline.message.title": "您离线了",
+	"app.offline.message.title": "您似乎离线了",
 	"dialog.yes.title": "确定",
 	"dialog.yes.hint": "",
 	"dialog.no.title": "否",
@@ -9,7 +9,7 @@
 	"dialog.ok.hint": "",
 	"dialog.cancel.title": "取消",
 	"dialog.cancel.hint": "",
-	"dialog.continue.title": "繼續",
+	"dialog.continue.title": "继续",
 	"dialog.continue.hint": "",
 	"dialog.close.title": "关闭",
 	"dialog.close.hint": "",
