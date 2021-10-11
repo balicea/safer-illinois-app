@@ -3,7 +3,7 @@
     "positive.step.html": "<h3>您需接受强制隔离。</h3><ul><h6><li>请留在家中。切勿去上班、上学或到公共场所。</li></h6><h6><li>與家中的其他人保持距离。</li></h6><h6><li>立即以电邮方式联络香槟-厄巴纳公共卫生部门：<a href='mailto:coronavirus@c-uphd.org'>coronavirus@c-uphd.org</a></li></h6><h6><li>更多资讯：<a href='https://covid19.illinois.edu/health-and-support/quarantine-and-isolation/'> 检疫与隔离</a></li></h6></ul>",
     "positive-ip.step.html": "<h3>请自我隔离，公共卫生部门将在接下来的24小时内与您联系。如您有任何疑问，请與大學的COVID健康资讯中心联系。您可以电邮至<a href='mailto:covidwellness@illinois.edu'>covidwellness@illinois.edu</a>，或致電<a href='tel:+1-217-333-1900'>217-333-1900</a>。</h3>",
     "positive-ip.explanation": "您的唾液PCR检测显示检测到新冠病毒。 由於病毒检测距离唾液样本收集已相隔了一段时间，您已被界定为具传染性的病毒感染者。 您需要接受隔离以防止病毒传染他人。",
-    "positive-nip.step.html": "<h3>除非您有类似于新冠肺炎的症状，并且有专业医护人员指示您需接受隔离，否则您不必自我隔离。</h3>",
+    "positive-nip.step.html": "<h3>除非您出现新冠肺炎疑似症状，并且有专业医护人员指示您需接受隔离，否则您不必自我隔离。</h3>",
     "positive-nip.explanation": "您的唾液PCR測試顯示病毒在非陽性水平的重複陽性中被檢測到。",
     "test.monitor.step.html": "<h1>監控您的測試結果</h1><p>如果您有能力，大學鼓勵您接種疫苗。 訪問 <a href='https://www.vaccinefinder.org'>vaccinefinder.org</a> 查找附近的約會。</p>",
     "test.monitor.vaccinated.step.html": "<h1>監控您的測試結果</h1><h3>我們記錄了您完成的COVID-19疫苗接種的經過驗證的記錄。</h3><p>您已被確定為在短時間內 COVID-19 陽性病例顯著增加的地區。 您需要接受校內 COVID-19 測試以保持合規性並具有“授予”建築物訪問權限狀態，直到情況有所改善並且您收到其他通知。</p>",
