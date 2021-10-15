@@ -1,6 +1,6 @@
 {
     "default.step": "返回校园后，請接受SHIELD唾液检测。",
-    "positive.step.html": "<h3>您需接受强制隔离。</h3><ul><h6><li>请留在家中。切勿去上班、上学或到公共场所。</li></h6><h6><li>與家中的其他人保持距离。</li></h6><h6><li>立即以电邮方式联络香槟-厄巴纳公共卫生部门：<a href='mailto:coronavirus@c-uphd.org'>coronavirus@c-uphd.org</a></li></h6><h6><li>更多资讯：<a href='https://covid19.illinois.edu/health-and-support/quarantine-and-isolation/'> 检疫与隔离</a></li></h6></ul>",
+    "positive.step.html": "<h3>您需接受强制隔离。</h3><ul><h6><li>留在家中。切勿上班、上学或到公共场所。</li></h6><h6><li>與家中的其他人保持距离。</li></h6><h6><li>立即以电邮方式联络香槟-厄巴纳公共卫生部门：<a href='mailto:coronavirus@c-uphd.org'>coronavirus@c-uphd.org</a></li></h6><h6><li>更多资讯：<a href='https://covid19.illinois.edu/health-and-support/quarantine-and-isolation/'> 检疫与隔离</a></li></h6></ul>",
     "positive-ip.step.html": "<h3>请自我隔离，公共卫生部门将在接下来的24小时内与您联系。如您有任何疑问，请與大學的COVID健康资讯中心联系。您可以电邮至<a href='mailto:covidwellness@illinois.edu'>covidwellness@illinois.edu</a>，或致電<a href='tel:+1-217-333-1900'>217-333-1900</a>。</h3>",
     "positive-ip.explanation": "您的唾液PCR检测显示检测到新冠病毒。 由於病毒检测距离唾液样本收集已相隔了一段时间，您已被界定为具传染性的病毒感染者。 您需要接受隔离以防止病毒传染他人。",
     "positive-nip.step.html": "<h3>除非您出现新冠肺炎疑似症状，并且有专业医护人员指示您需接受隔离，否则您不必自我隔离。</h3>",
@@ -21,8 +21,8 @@
     "test.multiple.step.html": "<h3>您必须在1月25日之前完成两次检测。</h3><ul><li>您需要在两次检测之间隔离三天：如果第一次检测是在第一天进行，第二次检测应在第五天进行。</li><li>在第二次检测结果确定为阴性之前，请尽量避免进行非必要活动。</li><li>获得第二次阴性检测结果后，您的学校大楼出入许可将被更改为「允许」（黄色）。</li></ul><p>按此查看<a href='https://covid19.illinois.edu/spring-2021-return-to-campus-for-students/'>检测时间表和规则</a>（只提供英文版）。</p>",
     "symptoms.step": "立即接受新冠肺炎病毒检测",
     "symptoms.reason": "您的状态已更改为橙色，因为您自我报告的症状与新冠肺炎的症状相符。",
-    "exposure.step.html": "<h3>您可能已經接觸了感染了COVID-19的人。</h3><ul><h6><li>您必須立即隔離自己。</li></h6><h6><li>您已被強制隔離。</li></h6><h6><li>與家中的其他人分開。</li></h6><h6><li>請與<a href='mailto:covidwellness@illinois.edu'> covidwellness@illinois.edu </a>聯繫以獲取指導。</li></h6><h6><li>在{next_step_date}之後進行測試，看看您是否已患上這種疾病。</li></h6><h6><li>更多信息: <a href='https://covid19.illinois.edu/health-and-support/quarantine-and-isolation/'>隔離與隔離</a></li></h6></ul>",
-    "exposure.reason": "您的狀態更改為橙色，因為您收到了曝光通知。",
+    "exposure.step.html": "<h3>您可能曾与新冠肺炎确诊者接触。</h3><ul><h6><li>您必须立即进行自我检疫隔离。</li></h6><h6><li>留在家中。切勿上班、上学或到公共场所。</li></h6><h6><li>與家中的其他人保持距离。</li></h6><h6><li>电邮至<a href='mailto:covidwellness@illinois.edu'> covidwellness@illinois.edu </a>以获取更多指引。</li></h6><h6><li>请在{next_step_date}后接受病毒检测，以检查自己有否受到感染。</li></h6><h6><li>更多信息：<a href='https://covid19.illinois.edu/health-and-support/quarantine-and-isolation/'>检疫与隔离</a>（只提供英文版）。</li></h6></ul>",
+    "exposure.reason": "您的状态已更改为橙色，因为您收到了暴露通知。",
     "vaccinated.step.html": "<h3>我們記錄了您完成的COVID-19疫苗接種的經過驗證的記錄。</h3><h3>您的疫苗接種狀態將取代合規性測試和建立訪問權限，直至另行通知。</h3><h3>如果您出現症狀，請進行校園 COVID-19 測試。</h3><h3>繼續監控大學通訊，了解您的考試政策是否有任何變化。</h3>",
     "vaccinated.notice": "COVID-19ワクチン接種が確認されました。",
     "vaccinated.reason": "我們有您完成的 COVID-19 疫苗接種的經過驗證的記錄存檔； 您的狀態已更改為綠色。",
