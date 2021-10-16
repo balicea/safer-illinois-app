@@ -583,7 +583,7 @@
 	"panel.health.covid19.qr_code.label.save_error": "Não foi possível salvar o código QR.",
 	"panel.health.covid19.qr_code.button.continue.hint": "",
 	"panel.health.covid19.qr_code.primary.heading.title": "Sua chave de encriptação de COVID-19",
-	"panel.health.covid19.qr_code.primary.description.1": "Para proteger a sua privacidade, os seus dados de saúde usados para as funções COVID-19 serão encriptados no aplicativo. A chave de encriptação é salvada no seu telefone para manter a segurança. \n\nPara utilizar as funções COVID-19 num outro dispositivo, é preciso transferir manualmente essa chave de encriptação usando o código QR abaixo.",
+	"panel.health.covid19.qr_code.primary.description.1": "Para proteger sua privacidade, seus dados de saúde usados para as funções de COVID-19 são encriptados. A chave de encriptação é armazenada no seu telefone para mantê-la segura. \n\nPara utilizar as funções de COVID-19 num outro dispositivo, é preciso transferir manualmente essa chave de encriptação usando o código QR abaixo.",
 	"panel.health.covid19.qr_code.primary.button.save.title": "Salvar Sua Chave de Encriptação",
 	"panel.health.covid19.qr_code.primary.button.save.hint": "",
 	"panel.health.covid19.qr_code.primary.description.2": "Caso seu dispositivo atual seja perdido ou danificado, sugerimos que você guarde uma cópia deste código QR em um serviço de armazenamento de fotos em nuvem, para que ele possa ser recuperado em seu dispositivo de reposição. \n\nVocê pode acessar e salvar esta chave neste dispositivo a qualquer momento acessando \"Transferir sua chave de encriptação COVID-19\" a partir do centro de informações COVID-19.",
