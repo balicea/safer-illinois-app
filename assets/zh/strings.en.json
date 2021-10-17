@@ -401,7 +401,7 @@
 	"panel.health.onboarding.covid19.disclosure.label.content4": "4. 文件（外部存储及读写），以允许用户将其个人加密密钥（二维码）导入到应用程式中。",
 	"panel.health.onboarding.covid19.disclosure.label.content5": "5. 设备上的定位服务必须开启，才能启动蓝牙低能耗技术，以使应用程序的暴露通知功能能在设备后台工作。 然而，应用程序不会存取、收集或储存任何位置数据，包括全球定位系统数据。 如果您没有开启设备上的定位服务，应用程序将只能提供有限功能，包括存储和提供关于COVID-19检测结果的信息、自我报告的症状，以及您的学校大楼出入权限状态。",
 	"panel.health.onboarding.covid19.disclosure.label.description2": "我们如何使用您的个人信息",
-	"panel.health.onboarding.covid19.disclosure.label.description3": "Information we need to provide you COVID-19 test results",
+	"panel.health.onboarding.covid19.disclosure.label.description3": "为提供您的新冠肺炎检测结果，我们需要您下列的个人信息。",
 	"panel.health.onboarding.covid19.disclosure.label.content8": "Name, email address, University ID number (UIN), phone number, and student registration information",
 	"panel.health.onboarding.covid19.disclosure.label.description4": "症狀",
 	"panel.health.onboarding.covid19.disclosure.label.content9": "您的新冠肺炎症狀会以匿名方式上报",
