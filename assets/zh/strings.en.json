@@ -636,7 +636,7 @@
 	"panel.health.report_test.future_date.forbidden.message": "您不能添加未进行的检测",
 	"widget.health.onboarding.indicator9.label.hint": "Covid-19入职流程",
 	"panel.health.status_update.heading.title": "状态更新",
-	"panel.health.status_update.label.status_change": "根据您的结果，您的状态已从 ",
+	"panel.health.status_update.label.status_change": "根据您的检测结果，您的状态已从 ",
 	"panel.health.status_update.label.status_change.to": " 到 ",
 	"panel.health.status_update.label.next_steps": "下一步",
 	"panel.health.status_update.label.asap": "尽快",
