@@ -36,7 +36,7 @@
     "exempt-on.until.reason": "Tu estado ha cambiado a Amarillo porque estás exento de hacerte pruebas hasta {next_step_date}",
     "exempt-off.orange.reason": "Tu estado ha cambiado a Naranjado porque tu estado de exento de hacerte las pruebas ha sido cancelado",
     "exempt-off.green.reason": "Tu estado ha cambiado a Verde porque tu estado de exento para hacerte las pruebas fue cancelado",
-    "release.step": "Hace la prueba de saliva de SHIELD",
+    "release.step": "Hazte la prueba de saliva de SHIELD",
     "release.reason": "Tu estado ha cambiado a Naranja porque el Departamento de salud pública requiere que te hagas la prueba.",
     "symptoms.no-symptoms": "Sin síntomas",
     "symptoms.fever": "Fiebre",
