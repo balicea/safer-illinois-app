@@ -684,7 +684,7 @@
 	"panel.settings.pending_family_member.label.text.statement1": "%s 寻求您的授权以参加Shield CU COVID-19检测",
 	"panel.settings.pending_family_member.label.text.statement2": "如果您同意，每次检测的费用%s 将入帐到您的大学帐户。",
 	"panel.settings.pending_family_member.label.text.terms.title": "条款及细则",
-	"panel.settings.pending_family_member.label.text.terms.html": "<p>上述人士报称为您的家人或家庭成员（家庭成员），并要求获得伊利诺斯州大学（大学）提供的新冠肺炎检测服务。点击「我同意」表示：</p><p>1. 您当前身份是有权接受大学提供的新冠肺炎检测服务的大学员工；<br> 2. 家庭成员是您家中的其中一员；以及<br>3. 您会负责因家庭成员接受大学提供的新冠肺炎检测服务而产生的所有未支付费用。</p><p>同时，如果家庭成员为18岁以下而您是该家庭成员的家长或合法监护人，您同意您会代其承担责任。</p><p>如您认为上述人士提出的要求不恰当，以及/或者从非正当渠道取得您的University Identification Number (UIN)，请联络<a href='mailto:shieldcu@illinois.edu'>shieldcu@illinois.edu</a>。</p>",
+	"panel.settings.pending_family_member.label.text.terms.html": "<p>上述人士报称为您的家人或家庭成员（家庭成员），并要求获得伊利诺伊州大学（大学）提供的新冠肺炎检测服务。点击「我同意」表示：</p><p>1. 您当前的身份是有权接受大学提供的新冠肺炎检测服务的大学员工；<br> 2. 家庭成员是您家中的其中一员；以及<br>3. 您会负责因家庭成员接受大学提供的新冠肺炎检测服务而产生的所有未支付费用。</p><p>同时，如果家庭成员为18岁以下而您是该家庭成员的家长或合法监护人，您同意代其承担责任。</p><p>如您认为上述人士提出的要求不恰当，並且/或者从非正当渠道取得您的大学身份识别号 (UIN)，请联络<a href='mailto:shieldcu@illinois.edu'>shieldcu@illinois.edu</a>。</p>",
 	"panel.settings.pending_family_member.button.approve.title": "我同意",
 	"panel.settings.pending_family_member.button.disapprove.title": "我不同意",
 	"panel.settings.pending_family_member.label.text.error": "无法提交",
