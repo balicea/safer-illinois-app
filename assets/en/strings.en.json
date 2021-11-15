@@ -397,7 +397,7 @@
 	"panel.debug_messaging.header.title": "Messaging",
 
 	"panel.web.offline.message": "You need to be online in order to perform this operation. Please check your Internet connection.",
-
+	
 	"panel.health.onboarding.covid19.intro.label.title": "Join the fight against COVID-19",
 	"panel.health.onboarding.covid19.intro.label.description": "Manage your health to help keep our Illinois community safe",
 	"panel.health.onboarding.covid19.intro.button.continue.title": "Continue",
@@ -463,7 +463,7 @@
 	"panel.health.onboarding.covid19.review_scan.button.rescan.hint": "",
 	"panel.health.onboarding.covid19.review_scan.button.use_scan.title": "Use This Scan",
 	"panel.health.onboarding.covid19.review_scan.button.use_scan.hint": "",
-
+	
 	"panel.health.onboarding.covid19.county.label.title": "What counties do you live and work in?",
 	"panel.health.onboarding.covid19.county.label.description": "Select all that apply",
 	"panel.health.onboarding.covid19.county.button.add_county.label": "Add Another County",
